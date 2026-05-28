@@ -11,7 +11,6 @@ I like projects that start from a simple idea and turn into something people can
 - Web applications with clear product thinking
 - Data scraping, ingestion, and analysis
 - Practical AI experiments and tools
-- Learning fast by building small, concrete projects
 
 ## Some projects i did
 
@@ -31,7 +30,7 @@ The goal is to explore rankings, comparisons, and Elo-based prediction logic thr
 
 Repo: [UFC-Data-Analytics](https://github.com/Tomastarau/UFC-Data-Analytics)
 
-### Resume Matcher experiments
+### Resume Matcher (Master Profile)
 
 A more flexible AI-assisted version of Resume Matcher.
 
